@@ -30,7 +30,7 @@ I wanted users to **feel immersed**, motivated, and organized — while staying 
 
 
 ## 🔗 Live Preview / Demo
-[View the redesigned Cloud Arcade](#) *(Insert your deployed project link)*
+(https://v0-google-cloud-arcade-redesign.vercel.app/)
 
 ---
 
