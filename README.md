@@ -36,7 +36,7 @@ I wanted users to **feel immersed**, motivated, and organized — while staying 
 
 ## 💬 Feedback
 I’d love your thoughts or suggestions!  
-Let’s connect on [LinkedIn](https://linkedin.com/in/your-profile).
+Let’s connect on [LinkedIn](https://linkedin.com/in/trivedikavya).
 
 ---
 
